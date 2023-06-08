@@ -47,18 +47,22 @@ The Screen is controlled by 4 buttons.
 
 ### Libraries
 
-- EasyButton - by Evert Arias - https://easybtn.earias.me/
+  - EasyButton - by Evert Arias - https://easybtn.earias.me/
 
-- RTClib - by Adafruit - https://github.com/adafruit/RTClib
+  - RTClib - by Adafruit - https://github.com/adafruit/RTClib
 
-- DHT sensor library - by Adafruit
+  - DHT sensor library - by Adafruit
 
-- Adafruit BusIO - by Adafruit
+  - Adafruit BusIO - by Adafruit
 
-- Adafruit GFX Library - by Adafruit
+  - Adafruit GFX Library - by Adafruit
 
-- Adafruit SSD1306 - by Adafruit
+  - Adafruit SSD1306 - by Adafruit
 
+### Description
+
+  #### AfleveringsOpgave.ino
+    - Functions
 
 ## Information og tech
 
