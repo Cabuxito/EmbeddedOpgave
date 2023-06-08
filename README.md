@@ -50,12 +50,17 @@
 
 ## Libaries
 
-EasyButton - by Evert Arias - https://easybtn.earias.me/
-RTClib - by Adafruit - https://github.com/adafruit/RTClib
-DHT sensor library - by Adafruit
-Adafruit BusIO - by Adafruit
-Adafruit GFX Library - by Adafruit
-Adafruit SSD1306 - by Adafruit
+-EasyButton - by Evert Arias - https://easybtn.earias.me/
+
+-RTClib - by Adafruit - https://github.com/adafruit/RTClib
+
+-DHT sensor library - by Adafruit
+
+-Adafruit BusIO - by Adafruit
+
+-Adafruit GFX Library - by Adafruit
+
+-Adafruit SSD1306 - by Adafruit
 
 
 
