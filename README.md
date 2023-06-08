@@ -40,8 +40,8 @@ In the future Change the time and date it will be an option.
 
 The Screen is controlled by 4 buttons and the following buttons functions are: 
 
-| Select |  Plus(+) | Minus(-) | Save  |$----------------$| SCREEN |
-| ------ | -------- | ---------| ----- |$----------------$| ------ |
+| Select |  Plus(+) | Minus(-) | Save  |
+| ------ | -------- | ---------| ----- |
    
 ## Instructions
 
