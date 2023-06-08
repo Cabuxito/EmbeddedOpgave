@@ -6,7 +6,8 @@
 
 * [Intro](#Intro)
 * [Requeriments](#Requeriments)
-** [Instructions](#Instructions)
+
+* [Instructions](#Instructions)
 
    * [Libraries](#Libraries)
    
