@@ -62,6 +62,7 @@ The Screen is controlled by 4 buttons.
 ### Structure
 
   #### AfleveringsOpgave.ino
+  
     - void setup()
     - void loop()
     
@@ -80,9 +81,12 @@ The Screen is controlled by 4 buttons.
       void btnSaveRead()
       void btnSelectRead()
       void MenuFalse()
+      
     This file contains some extern variables for the efficiency of the functions.
     Remember to include "Interface.h".
+    
   #### Interface.h
+  
     - Includes
     - Function Prototypes
     - Defines
