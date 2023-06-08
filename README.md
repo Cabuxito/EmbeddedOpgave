@@ -11,8 +11,7 @@
 
    * [Libraries](#Libraries)
    * [Structure](#Structure)
-   
-* [Information & tech](#Information-og-tech)
+
 * [Changelog](#Changelog)
 * [To-Do](#To-do)
 * [Contributing](#Contributing)
@@ -44,6 +43,14 @@ The Screen is controlled by 4 buttons and the following buttons functions are:
 | ------ | -------- | ---------| ----- |
    
 ## Instructions
+
+
+| Platform      |    Language   | projectVersion| 
+| ------------- | ------------- | ------------- |
+|    Arduino    |    c/c++ gnu  |       0.0.1   |
+| ------------- | ------------- | ------------- |
+
+
 
 1. Connect the components provided in Requeriments, and make sure all is connected properly.
 2. Install the required libraries by following their respective installation instructions.
@@ -97,14 +104,6 @@ The Screen is controlled by 4 buttons and the following buttons functions are:
     - Includes
     - Function Prototypes
     - Defines
-
-## Information og tech
-
-
-| Platform      |    Language   | projectVersion| 
-| ------------- | ------------- | ------------- |
-|    Arduino    |    c/c++ gnu  |       0.0.1   |
-| ------------- | ------------- | ------------- |
 
 
 
