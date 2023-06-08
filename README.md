@@ -39,7 +39,7 @@ I
 5. Select the Arduino Zero board from the 'Tools' menu.
 6. Upload the sketch to the Arduino Zero board.
 
-# Libaries
+### Libraries
 
 -EasyButton - by Evert Arias - https://easybtn.earias.me/
 
