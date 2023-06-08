@@ -1,4 +1,4 @@
-# IOT H3 Aflevering Opgave
+### Intelligent IoT-Controlled House
 
 
 
@@ -18,7 +18,7 @@
 
 ## Requirements
 
-- Arduino Zero board.
+- Arduino Zero board. [SEE HERE](https://store.arduino.cc/products/arduino-zero)
 - 4 buttons for user input with intern-pullup.
 - OLED screen for displaying information.
 - DHT11 sensor for temperature and humidity.
@@ -26,10 +26,15 @@
 
 ## Intro
 
-I 
+I created a display output ( Screen ), where it shows a menu and some functions.
+It shows differents options as :
+  1 - Time/Date
+  2 - Temperature
+  3 - Humidity
+and when one is chosen it will display the properties that correspond to the chosen option.
 
-
-
+The Screen is controlled by 4 buttons.
+   
 ## Instructions
 
 1. Connect the components provided in Requeriments, and make sure all is connected properly.
@@ -41,19 +46,17 @@ I
 
 ### Libraries
 
--EasyButton - by Evert Arias - https://easybtn.earias.me/
+- EasyButton - by Evert Arias - https://easybtn.earias.me/
 
--RTClib - by Adafruit - https://github.com/adafruit/RTClib
+- RTClib - by Adafruit - https://github.com/adafruit/RTClib
 
--DHT sensor library - by Adafruit
+- DHT sensor library - by Adafruit
 
--Adafruit BusIO - by Adafruit
+- Adafruit BusIO - by Adafruit
 
--Adafruit GFX Library - by Adafruit
+- Adafruit GFX Library - by Adafruit
 
--Adafruit SSD1306 - by Adafruit
-
-
+- Adafruit SSD1306 - by Adafruit
 
 
 ## Information og tech
@@ -70,7 +73,7 @@ I
 
 
 ## Changelog
-[Github](https://github.com/Cabuxito/EmbeddedOpgave)) - The full project is ready for you to try it.
+[Github](https://github.com/Cabuxito/EmbeddedOpgave) - The full project is ready for you to try it.
 
 
 
