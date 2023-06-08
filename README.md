@@ -38,10 +38,10 @@ It shows differents options as :
 and when one is chosen it will display the properties that correspond to the chosen option.
 In the future Change the time and date it will be an option.
 
-The Screen is controlled by 4 buttons and the following buttons 
+The Screen is controlled by 4 buttons and the following buttons functions are: 
 
-| Select |  Plus(+) | Minus(-) | Save  |
-| ------ | -------- | ---------| ----- |
+| Select |  Plus(+) | Minus(-) | Save  |                  | SCREEN |
+| ------ | -------- | ---------| ----- |                  | ------ |
    
 ## Instructions
 
