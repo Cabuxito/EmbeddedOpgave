@@ -45,6 +45,7 @@ The Screen is controlled by 4 buttons and the following buttons functions are:
 | ------ | -------- | ---------| ----- |
 
 With the Select button you can enter the option chosen and leave again.
+
 The Save button does not have any importance in this stage of the project but will be relevant in the future.
    
 ## Instructions
