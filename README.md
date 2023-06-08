@@ -70,8 +70,8 @@ The Screen is controlled by 4 buttons and the following buttons functions are:
 
   #### AfleveringsOpgave.ino
   
-    - void setup()
-    - void loop()
+      void setup()
+      void loop()
     
   #### Interface.cpp
     - Functions:
