@@ -31,7 +31,9 @@ I created a display output ( Screen ), where it shows a menu and some functions.
 It shows differents options as :
 
   1 - Time/Date
+  
   2 - Temperature
+  
   3 - Humidity
   
 and when one is chosen it will display the properties that correspond to the chosen option.
