@@ -14,6 +14,7 @@
 * [Information & tech](#Information-og-tech)
 * [Changelog](#Changelog)
 * [To-Do](#To-do)
+* [Contributing](#Contributing)
 
 
 ## Requirements
@@ -81,4 +82,9 @@ The Screen is controlled by 4 buttons.
 
 * Change Date and time with the buttons.
 * make graphs about temperature.
+
+## Contributing
+
+* Kevin and Elias did help me with the Select function.
+* Thomas did help me with some inspiration for my readme file. 
 
