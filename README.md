@@ -18,11 +18,11 @@
 
 ## Requirements
 
-- Arduino Zero board. [SEE HERE](https://store.arduino.cc/products/arduino-zero)
-- 4 buttons for user input with intern-pullup.
-- OLED screen for displaying information.
-- DHT11 sensor for temperature and humidity.
-- DS3231 Real Time Clock.
+- Arduino Zero board. [See Here](https://store.arduino.cc/products/arduino-zero)
+- 4 buttons for user input with intern-pullup. [See Here](https://ardustore.dk/produkt/tactile-print-push-button-6x6x5mm?gclid=CjwKCAjw-IWkBhBTEiwA2exyO94873bkykivqHhJ76OJxMIguEzHdmNpNAZ3KMVINccsGDTCjgwn7RoCkdUQAvD_BwE)
+- OLED screen for displaying information. [See Here](https://ardustore.dk/produkt/display-oled-0-96%e2%80%b3-i2c-128x64-module-hvid)
+- DHT11 sensor for temperature and humidity. [See Here](https://ardustore.dk/produkt/dht-11-temperature-humidity-module)
+- DS3231 Real Time Clock. [See Here](https://techbitshop.dk/vare/ds3231-at24c32-rtc-i2c-clock-module/?utm_source=Google+Shopping&utm_medium=cpc&utm_campaign=techbitshop_ctx&gclid=CjwKCAjw-IWkBhBTEiwA2exyO2gDGx2PlvWAkwPOLhUiscW6q3YP58kkfcwnMKu4Ql5crO-m6gcD1RoCbpEQAvD_BwE)
 
 ## Intro
 
