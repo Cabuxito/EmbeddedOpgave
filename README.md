@@ -3,11 +3,14 @@
 
 
 ## T.O.C
+
 * [Intro](#Intro)
 * [Requeriments](#Requeriments)
-* [Instructions](#Instructions)
+** [Instructions](#Instructions)
+
+   * [Libraries](#Libraries)
+   
 * [Information & tech](#Information-og-tech)
-* [Libraries](#Libraries)
 * [Changelog](#Changelog)
 * [To-Do](#To-do)
 
@@ -28,27 +31,14 @@
 
 ## Instructions
 
-1. Connect the components provided in the 'circuit_diagram.png' file.
-2. Install the required libraries by following their respective installation instructions: [Libraries](#Libraries)
-  
+1. Connect the components provided in Requeriments, and make sure all is connected properly.
+2. Install the required libraries by following their respective installation instructions.
+3. Install Arduino IDE (Last version).
 4. Open the 'arduino_zero_project.ino' file in the Arduino IDE.
 5. Select the Arduino Zero board from the 'Tools' menu.
 6. Upload the sketch to the Arduino Zero board.
 
-
-
-
-## Information og tech
-
-
-| Platform      |    Language   | projectVersion| 
-| ------------- | ------------- | ------------- |
-|    Arduino    |    c/c++ gnu  |       0.0.1   |
-| ------------- | ------------- | ------------- |
-
-
-
-### Libaries
+# Libaries
 
 -EasyButton - by Evert Arias - https://easybtn.earias.me/
 
@@ -64,8 +54,22 @@
 
 
 
+
+## Information og tech
+
+
+| Platform      |    Language   | projectVersion| 
+| ------------- | ------------- | ------------- |
+|    Arduino    |    c/c++ gnu  |       0.0.1   |
+| ------------- | ------------- | ------------- |
+
+
+
+
+
+
 ## Changelog
-[Github](https://github.com/user/project/commit) Coming Soon....
+[Github](https://github.com/Cabuxito/EmbeddedOpgave)) - The full project is ready for you to try it.
 
 
 
