@@ -48,7 +48,7 @@
 
 
 
-## Libaries
+### Libaries
 
 -EasyButton - by Evert Arias - https://easybtn.earias.me/
 
