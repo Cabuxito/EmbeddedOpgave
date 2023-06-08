@@ -10,6 +10,7 @@
 * [Instructions](#Instructions)
 
    * [Libraries](#Libraries)
+   * [Structure](#Structure)
    
 * [Information & tech](#Information-og-tech)
 * [Changelog](#Changelog)
