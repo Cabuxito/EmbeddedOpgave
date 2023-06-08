@@ -59,10 +59,33 @@ The Screen is controlled by 4 buttons.
 
   - Adafruit SSD1306 - by Adafruit
 
-### Description
+### Structure
 
   #### AfleveringsOpgave.ino
-    - Functions
+    - void setup()
+    - void loop()
+    
+  #### Interface.cpp
+    - Functions:
+      void ShowTime()
+      void ShowDate()
+      void TimePlusZero(Datetime time)
+      void Menu()
+      void ShowHumidity()
+      void ShowTemp()
+      void menuBtnPlus()
+      void menuBtnMinus()
+      void btnMinusRead()
+      void btnPlusRead()
+      void btnSaveRead()
+      void btnSelectRead()
+      void MenuFalse()
+    This file contains some extern variables for the efficiency of the functions.
+    Remember to include "Interface.h".
+  #### Interface.h
+    - Includes
+    - Function Prototypes
+    - Defines
 
 ## Information og tech
 
