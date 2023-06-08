@@ -45,13 +45,6 @@ The Screen is controlled by 4 buttons and the following buttons functions are:
 ## Instructions
 
 
-| Platform      |    Language   | projectVersion| 
-| ------------- | ------------- | ------------- |
-|    Arduino    |    c/c++ gnu  |       0.0.1   |
-| ------------- | ------------- | ------------- |
-
-
-
 1. Connect the components provided in Requeriments, and make sure all is connected properly.
 2. Install the required libraries by following their respective installation instructions.
 3. Install Arduino IDE (Last version).
@@ -104,11 +97,6 @@ The Screen is controlled by 4 buttons and the following buttons functions are:
     - Includes
     - Function Prototypes
     - Defines
-
-
-
-
-
 
 ## Changelog
 [Github](https://github.com/Cabuxito/EmbeddedOpgave) - The full project is ready for you to try it.
