@@ -46,6 +46,8 @@ The Screen is controlled by 4 buttons and the following buttons functions are:
 | Select |  Plus(+) | Minus(-) | Save  |
 | ------ | -------- | ---------| ----- |
 
+![board](https://github.com/Cabuxito/EmbeddedOpgave/assets/89253662/32e4d33a-b524-46f4-8272-69415744e818)
+
 With the Select button you can enter the option chosen and leave again.
 
 The Save button does not have any importance in this stage of the project but will be relevant in the future.
